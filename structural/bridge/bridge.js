@@ -1,10 +1,10 @@
-class Model {
+class Color {
 	constructor(color) {
 		this.color = color;
 	}
 };
 
-class Color {
+class Model {
 	constructor(type) {
 		this.type = type;
 	}
