@@ -6,7 +6,7 @@
 Рассматривать мы их с вами будем на примере языка JavaScript в синтаксисе ES6.
 
 ### Поддержать развитие канала:
-[<img alt="webDev | YouTube Sponsor" src="https://img.shields.io/badge/Become a sponsor-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor]
+[<img alt="webDev | YouTube Sponsor" src="https://img.shields.io/badge/Стать спонсором-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor]
 
 ---
 
