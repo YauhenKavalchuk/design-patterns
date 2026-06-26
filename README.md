@@ -43,10 +43,12 @@
 [<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="webDev | X" src="https://img.shields.io/badge/x-000000.svg?&style=for-the-badge&logo=x&logoColor=white" />][x]
 [<img alt="webDev | Threads" src="https://img.shields.io/badge/threads-ffffff.svg?&style=for-the-badge&logo=threads&logoColor=black" />][threads]
+[<img alt="webDev | Telegram" src="https://img.shields.io/badge/telegram-229ED9.svg?&style=for-the-badge&logo=Telegram&logoColor=white" />][telegram]
 
 [youtube]: https://youtube.com/YauhenKavalchuk
 [instagram]: https://instagram.com/YauhenKavalchuk
 [linkedin]: https://linkedin.com/in/YauhenKavalchuk
 [x]: https://x.com/YauhenKavalchuk
 [threads]: https://www.threads.com/YauhenKavalchuk
+[telegram]: http://t.me/yauhenkavalchuk
 [sponsor]: https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join
